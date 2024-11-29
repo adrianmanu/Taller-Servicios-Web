@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7882F382-B2B4-4334-BCEF-2BDDA24FDE83}|ProductSOAPService\\ProductSOAPService.csproj|D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\productsoapservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7882F382-B2B4-4334-BCEF-2BDDA24FDE83}|ProductSOAPService\\ProductSOAPService.csproj|solutionrelative:productsoapservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882F382-B2B4-4334-BCEF-2BDDA24FDE83}|ProductSOAPService\\ProductSOAPService.csproj|d:\\semestre oct24-mar25\\distribuidas\\ejerciciovisual\\librosserver2\\librosserver\\productsoapservice\\productsoapservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882F382-B2B4-4334-BCEF-2BDDA24FDE83}|ProductSOAPService\\ProductSOAPService.csproj|solutionrelative:productsoapservice\\productsoapservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882F382-B2B4-4334-BCEF-2BDDA24FDE83}|ProductSOAPService\\ProductSOAPService.csproj|D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\productsoapservice\\iproductsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882F382-B2B4-4334-BCEF-2BDDA24FDE83}|ProductSOAPService\\ProductSOAPService.csproj|solutionrelative:productsoapservice\\iproductsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723A0025-968A-462A-8309-046E679DE353}|ServiceREST\\ServiceREST.csproj|D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\servicerest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{723A0025-968A-462A-8309-046E679DE353}|ServiceREST\\ServiceREST.csproj|solutionrelative:servicerest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723A0025-968A-462A-8309-046E679DE353}|ServiceREST\\ServiceREST.csproj|D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\servicerest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723A0025-968A-462A-8309-046E679DE353}|ServiceREST\\ServiceREST.csproj|solutionrelative:servicerest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB992609-CFFD-4715-A3A9-23F17EDD578F}|DAL\\DAL.csproj|D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\dal\\efrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB992609-CFFD-4715-A3A9-23F17EDD578F}|DAL\\DAL.csproj|solutionrelative:dal\\efrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ProductSOAPService\\Web.config",
+              "RelativeDocumentMoniker": "ProductSOAPService\\Web.config",
+              "ToolTip": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ProductSOAPService\\Web.config",
+              "RelativeToolTip": "ProductSOAPService\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T16:18:00.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFRespository.cs",
+              "DocumentMoniker": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\DAL\\EFRespository.cs",
+              "RelativeDocumentMoniker": "DAL\\EFRespository.cs",
+              "ToolTip": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\DAL\\EFRespository.cs",
+              "RelativeToolTip": "DAL\\EFRespository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:46:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ServiceREST\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ServiceREST\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ServiceREST\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ServiceREST\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:38:29.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ServiceREST\\Web.config",
+              "RelativeDocumentMoniker": "ServiceREST\\Web.config",
+              "ToolTip": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ServiceREST\\Web.config",
+              "RelativeToolTip": "ServiceREST\\Web.config",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T18:16:35.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductSOAPService.cs",
+              "DocumentMoniker": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ProductSOAPService\\IProductSOAPService.cs",
+              "RelativeDocumentMoniker": "ProductSOAPService\\IProductSOAPService.cs",
+              "ToolTip": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ProductSOAPService\\IProductSOAPService.cs",
+              "RelativeToolTip": "ProductSOAPService\\IProductSOAPService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:15:13.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductSOAPService.svc.cs",
+              "DocumentMoniker": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ProductSOAPService\\ProductSOAPService.svc.cs",
+              "RelativeDocumentMoniker": "ProductSOAPService\\ProductSOAPService.svc.cs",
+              "ToolTip": "D:\\SEMESTRE OCT24-MAR25\\DISTRIBUIDAS\\EjercicioVisual\\LibrosServer2\\LibrosServer\\ProductSOAPService\\ProductSOAPService.svc.cs",
+              "RelativeToolTip": "ProductSOAPService\\ProductSOAPService.svc.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv4QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:14:11.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

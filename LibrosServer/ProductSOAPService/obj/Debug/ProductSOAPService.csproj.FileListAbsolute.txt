@@ -1,0 +1,17 @@
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\ProductSOAPService.dll.config
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\ProductSOAPService.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\ProductSOAPService.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\BLL.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\Entities.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\DAL.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\EntityFramework.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\BLL.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\Entities.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\DAL.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\DAL.dll.config
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\bin\EntityFramework.xml
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\obj\Debug\ProductSOAPService.csproj.AssemblyReference.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\obj\Debug\ProductSOAPService.csproj.CoreCompileInputs.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\obj\Debug\ProductS.4989036E.Up2Date
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\obj\Debug\ProductSOAPService.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\ProductSOAPService\obj\Debug\ProductSOAPService.pdb

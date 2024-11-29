@@ -1,0 +1,34 @@
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\Test.exe.config
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\Test.exe
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\Test.pdb
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\DAL.dll
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\Entities.dll
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\EntityFramework.dll
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\DAL.pdb
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\DAL.dll.config
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\Entities.pdb
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\EntityFramework.xml
+C:\Users\yorge\source\repos\LibrosServer\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yorge\source\repos\LibrosServer\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\yorge\source\repos\LibrosServer\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\yorge\source\repos\LibrosServer\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\yorge\source\repos\LibrosServer\Test\obj\Debug\Test.exe
+C:\Users\yorge\source\repos\LibrosServer\Test\obj\Debug\Test.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\Test.exe.config
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\Test.exe
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\Test.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\DAL.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\Entities.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\EntityFramework.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\DAL.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\DAL.dll.config
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\Entities.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\EntityFramework.xml
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\obj\Debug\Test.csproj.Up2Date
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\obj\Debug\Test.exe
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\Test\obj\Debug\Test.pdb

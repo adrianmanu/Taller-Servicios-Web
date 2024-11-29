@@ -1,0 +1,28 @@
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\DAL.dll.config
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\DAL.dll
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\DAL.pdb
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\Entities.dll
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\Entities.pdb
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yorge\source\repos\LibrosServer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yorge\source\repos\LibrosServer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yorge\source\repos\LibrosServer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yorge\source\repos\LibrosServer\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\yorge\source\repos\LibrosServer\DAL\obj\Debug\DAL.dll
+C:\Users\yorge\source\repos\LibrosServer\DAL\obj\Debug\DAL.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\DAL.dll.config
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\DAL.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\DAL.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\Entities.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\EntityFramework.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\Entities.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\EntityFramework.xml
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\obj\Debug\DAL.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\DAL\obj\Debug\DAL.pdb

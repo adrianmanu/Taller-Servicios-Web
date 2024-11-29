@@ -1,0 +1,18 @@
+C:\Users\yorge\source\repos\LibrosServer\SLC\bin\Debug\SLC.dll
+C:\Users\yorge\source\repos\LibrosServer\SLC\bin\Debug\SLC.pdb
+C:\Users\yorge\source\repos\LibrosServer\SLC\bin\Debug\Entities.dll
+C:\Users\yorge\source\repos\LibrosServer\SLC\bin\Debug\Entities.pdb
+C:\Users\yorge\source\repos\LibrosServer\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\yorge\source\repos\LibrosServer\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\yorge\source\repos\LibrosServer\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\yorge\source\repos\LibrosServer\SLC\obj\Debug\SLC.dll
+C:\Users\yorge\source\repos\LibrosServer\SLC\obj\Debug\SLC.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\bin\Debug\SLC.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\bin\Debug\SLC.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\bin\Debug\Entities.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\bin\Debug\Entities.pdb
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\obj\Debug\SLC.csproj.Up2Date
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\obj\Debug\SLC.dll
+D:\SEMESTRE OCT24-MAR25\DISTRIBUIDAS\EjercicioVisual\LibrosServer2\LibrosServer\SLC\obj\Debug\SLC.pdb
