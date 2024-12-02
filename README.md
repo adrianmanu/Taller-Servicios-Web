@@ -45,11 +45,10 @@ CREATE TABLE Categories (
 
 #### 3.2 Configuración de la Cadena de Conexión
 
-```markdown
+
 ### 2. Configuración de la Cadena de Conexión
 En el archivo `web.config`, actualiza la cadena de conexión para apuntar a tu instancia local de SQL Server:
 
-```xml
 <connectionStrings>
     <add name="Sales_DB_Connection"
          connectionString="Server=localhost;Database=Sales_DB;User Id=sa;Password=TuContraseña;TrustServerCertificate=True;"
@@ -59,11 +58,10 @@ En el archivo `web.config`, actualiza la cadena de conexión para apuntar a tu i
 
 #### 3.3 Habilitar WCF en Windows
 
-```markdown
+
 ### 3. Habilitar WCF en Windows
 Si no tienes activado el soporte para WCF, habilítalo ejecutando el siguiente comando en PowerShell como administrador:
 
-```powershell
 Enable-WindowsOptionalFeature -Online -FeatureName NetFx3, WCF-HTTP-Activation45 -All
 
 
@@ -71,7 +69,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName NetFx3, WCF-HTTP-Activation45
 
 #### 4.1 Abrir y Ejecutar el Servicio
 
-```markdown
+
 ## Ejecutar el Proyecto
 
 ### 1. Abrir y Ejecutar el Servicio
@@ -93,7 +91,7 @@ http://localhost:58085/ProductService.svc?wsdl
      Content-Type: text/xml
      ```
    - **Cuerpo**: Ejemplo para crear un producto:
-     ```xml
+
      <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
        <soap:Body>
          <Create xmlns="http://tempuri.org/">
@@ -113,7 +111,7 @@ http://localhost:58085/ProductService.svc?wsdl
 ### **Usar Python**
 Ejecuta el siguiente script en **Python** para consumir el servicio SOAP usando **zeep**:
 
-```python
+
 from zeep import Client
 
 # URL del WSDL
