@@ -28,7 +28,7 @@ Este proyecto implementa un servicio SOAP utilizando **Windows Communication Fou
 ### 1. Base de Datos
 Crea una base de datos llamada `Sales_DB` y ejecuta los siguientes scripts para generar las tablas necesarias:
 
-```sql
+
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY IDENTITY,
     ProductName NVARCHAR(50) NOT NULL,
